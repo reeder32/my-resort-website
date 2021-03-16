@@ -1,6 +1,13 @@
 h1{
   text-align: center;
   font-weight: bold;
+  color: brown;
+}
+
+h2{
+  font-style: italic;
+  color: purple;
+  font-family: sans-serif;
 }
 
 li {
@@ -8,5 +15,7 @@ li {
 }
 
 body{
-  color: aquamarine;
+  
+  background-color: beige;
 }
+
